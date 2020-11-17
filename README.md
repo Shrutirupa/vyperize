@@ -1,1 +1,4 @@
-# vyperize
+# Features
+
+  Detects vulnerable Vyper code 
+  
